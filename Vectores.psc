@@ -1,5 +1,4 @@
 Algoritmo sin_titulo
-	Definir h como entero
 		Imprimir'Dime la longitud del vector'
 	Leer x
 	d <- 1
